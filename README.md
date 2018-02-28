@@ -1,8 +1,8 @@
 <a href="http://icst.ugm.ac.id/2018/"><img src="http://icst.ugm.ac.id/2018/images/logos/logo.svg" height="142px" align="right"></a>
 
-# Website for the ICST 2018
+# Website for the IBioCon 2018
 
-This is the website for The 4<sup>th</sup> International Conference on Science and Technology (ICST 2018), hosted by Universitas Gadjah Mada on 7&ndash;8 August 2018.
+This is the website for The 4<sup>th</sup> International Conference on Science and Technology (IBioCon 2018), hosted by Universitas Gadjah Mada on 7&ndash;8 August 2018.
 
 ## Credits
 
@@ -20,7 +20,7 @@ This is the website for The 4<sup>th</sup> International Conference on Science a
 ### Development
 
 + Based on [Bootstrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
-+ Based on [ICST 2017 Website](https://github.com/jaybaeta/icst-2017) by [Joaquim Baeta](https://github.com/jaybaeta/)
++ Based on [IBioCon 2017 Website](https://github.com/jaybaeta/icst-2017) by [Joaquim Baeta](https://github.com/jaybaeta/)
 
 ### Icons
 

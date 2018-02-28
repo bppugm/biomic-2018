@@ -6155,6 +6155,14 @@ a.bg-danger:focus, a.bg-danger:hover {
   background-color: #c9302c !important;
 }
 
+.bg-teal {
+  background-color: #009688 !important; 
+}
+
+a.bg-teal:focus, a.bg-teal:hover {
+  background-color: #004D40 !important;
+}
+
 .bg-inverse {
   background-color: #292b2c !important;
 }
@@ -9696,7 +9704,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* THE ICST 2017 IN IMAGES AND WORDS */
+/* THE IBioCon 2017 IN IMAGES AND WORDS */
 
 /* TEXT */
 
