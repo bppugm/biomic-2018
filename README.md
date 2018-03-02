@@ -1,8 +1,8 @@
-<!-- <a href="http://icst.ugm.ac.id/2018/"><img src="http://icst.ugm.ac.id/2018/images/logos/logo.svg" height="142px" align="right"></a> -->
+<!-- <a href="http://ibiocon.ugm.ac.id/2018/"><img src="http://ibiocon.ugm.ac.id/2018/images/logos/logo.svg" height="142px" align="right"></a> -->
 
-# Website for the IBIOCON 2018
+# Website for the iBioCon 2018
 
-This is the website for The 1<sup>st</sup> International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering (IBioCon 2018), hosted by Universitas Gadjah Mada on 23&ndash;24 October 2018.
+This is the website for The 1<sup>st</sup> International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering (iBioCon 2018), hosted by Universitas Gadjah Mada on 23&ndash;24 October 2018.
 
 ## Credits
 
@@ -10,12 +10,12 @@ This is the website for The 1<sup>st</sup> International Conference on Bioinform
 
 + [@sulish](https://github.com/sulish)
 + [@febriyanyoga](https://github.com/febriyanyoga)
++ [@davieiycode](https://github.com/davieiycode)
 
 ### Supporting contributors
 
 + [@w1lldone](https://github.com/w1lldone)
 + [@akhsin](https://github.com/akhsin)
-+ [@davieiycode](https://github.com/davieiycode)
 
 ### Development
 
