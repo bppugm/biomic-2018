@@ -20,7 +20,7 @@ This is the website for The 1<sup>st</sup> International Conference on Bioinform
 ### Development
 
 + Based on [Bootstrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
-+ Based on [IBioCon 2017 Website](https://github.com/jaybaeta/icst-2017) by [Joaquim Baeta](https://github.com/jaybaeta/)
++ Based on [ICST 2017 Website](https://github.com/jaybaeta/icst-2017) by [Joaquim Baeta](https://github.com/jaybaeta/)
 
 <!-- ### Icons
 
@@ -53,5 +53,3 @@ All symposia images are licensed under the Creative Commons via Flickr.
 ## License
 
 © 2017 Badan Penerbit dan Publikasi UGM under the MIT License.
-
-...
