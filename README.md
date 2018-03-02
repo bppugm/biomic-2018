@@ -53,3 +53,5 @@ All symposia images are licensed under the Creative Commons via Flickr.
 ## License
 
 © 2017 Badan Penerbit dan Publikasi UGM under the MIT License.
+
+...
