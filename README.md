@@ -1,8 +1,8 @@
 <!-- <a href="http://ibiocon.ugm.ac.id/2018/"><img src="http://ibiocon.ugm.ac.id/2018/images/logos/logo.svg" height="142px" align="right"></a> -->
 
-# Website for the iBioCon 2018
+# Website for the BioMIC 2018
 
-This is the website for The 1<sup>st</sup> International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering (iBioCon 2018), hosted by Universitas Gadjah Mada on 23&ndash;24 October 2018.
+This is the website for The 1<sup>st</sup> International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering (BioMIC 2018), hosted by Universitas Gadjah Mada on 19&ndash;20 October 2018.
 
 ## Credits
 
