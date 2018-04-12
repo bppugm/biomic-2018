@@ -2701,8 +2701,8 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1d73cc;
-  border-color: #1d73cc;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .btn-primary:hover {
@@ -2761,8 +2761,8 @@ fieldset[disabled] a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #4bacda;
-  border-color: #4bacda;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .btn-info:hover {
@@ -2777,8 +2777,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-info.disabled, .btn-info:disabled {
-  background-color: #4bacda;
-  border-color: #4bacda;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .btn-info:active, .btn-info.active,
@@ -6116,7 +6116,7 @@ body.modal-open[style] {
 }
 
 .bg-primary {
-  background-color: #1D73CC !important; 
+  background-color: #009688 !important; 
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
