@@ -2717,8 +2717,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background-color: #1d73cc;
-  border-color: #1d73cc;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .btn-primary:active, .btn-primary.active,
@@ -2883,13 +2883,13 @@ fieldset[disabled] a.btn {
   color: #1d73cc;
   background-image: none;
   background-color: transparent;
-  border-color: #1d73cc;
+  border-color: #009688;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #1d73cc;
-  border-color: #1d73cc;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -2898,15 +2898,15 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #1d73cc;
+  color: #009688;
   background-color: transparent;
 }
 
 .btn-outline-primary:active, .btn-outline-primary.active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #1d73cc;
-  border-color: #1d73cc;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .btn-outline-secondary {
@@ -4515,8 +4515,8 @@ tbody.collapse.show {
 }
 
 .card-primary {
-  background-color: #1d73cc;
-  border-color: #1d73cc;
+  background-color: #009688;
+  border-color: #009688;
 }
 
 .card-primary .card-header,
@@ -4566,7 +4566,7 @@ tbody.collapse.show {
 
 .card-outline-primary {
   background-color: transparent;
-  border-color: #1d73cc;
+  border-color: #009688;
 }
 
 .card-outline-secondary {
@@ -4914,11 +4914,11 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-primary {
-  background-color: #1d73cc;
+  background-color: #009688;
 }
 
 .badge-primary[href]:focus, .badge-primary[href]:hover {
-  background-color: #175fa9;
+  background-color: #009688;
 }
 
 .badge-success {
@@ -6120,7 +6120,7 @@ body.modal-open[style] {
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
-  background-color: #1b69b9 !important;
+  background-color: #009688 !important;
 }
 
 .bg-success {
