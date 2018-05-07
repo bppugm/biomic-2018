@@ -3254,7 +3254,7 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-primary {
-  color: #1d73cc;
+  color: #1dcc7f;
   background-image: none;
   background-color: transparent;
   border-color: #009688;
@@ -9704,7 +9704,7 @@ a.text-muted:hover {
 }
 
 .text-primary {
-  color: #1d73cc !important;
+  color: #1dcc7f !important;
 }
 
 a.text-primary:focus,
@@ -9932,7 +9932,7 @@ a.text-gray-dark:hover {
 }
 
 .social-media-row a:hover {
-  color: #1D73CC;
+  color: #009688;
 }
 
 /* LIST OF PRESENTERS */
@@ -10511,11 +10511,11 @@ a.text-gray-dark:hover {
 }
 
 .nav-item a.active span {
-  background: #1d73cc;
+  background: #1dcc7f;
 }
 
 .nav-item a.active {
-  color: #1d73cc !important;
+  color: #1dcc7f !important;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
